@@ -1,2 +1,2 @@
 # Trading Bot Version 1.0
- Real time trading bot using Binance API
+ Real time trading bot using Binance API and several Python Libraries. This bot use RSI indicator to trade in real time. This is the very first version of the bot, upgrades are yet to release.
